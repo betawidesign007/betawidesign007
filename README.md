@@ -5,7 +5,7 @@
 # Hi there, I'm Ibrahim 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/betawidesign007/betawidesign007/main/belalangaspal.png" width="350px" alt="AI Robot" />
+  <img src="https://raw.githubusercontent.com/betawidesign007/betawidesign007/main/2.jpeg" width="350px" alt="AI Robot" />
 </p>
 
 - 🔭 Saat ini sedang fokus mengembangkan aplikasi web full-stack, basis data, dan administrasi sistem.
