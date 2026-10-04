@@ -5,7 +5,7 @@
 # Hi there, I'm Ibrahim 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR41mzK/giphy.gif" width="300px" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200px" />
 </p>
 
 - 🔭 Saat ini sedang fokus mengembangkan aplikasi web full-stack, basis data, dan administrasi sistem.
@@ -23,10 +23,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_MU&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betawidesign007&theme=tokyonight&hide_border=true" width="100%" />
 </p>
