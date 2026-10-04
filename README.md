@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_MU&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=betawidesign007&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 # Hi there, I'm Ibrahim 👋
