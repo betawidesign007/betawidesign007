@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_MU&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
-<!--
-**betawidesign007/betawidesign007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ibrahim 👋
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR41mzK/giphy.gif" width="300px" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on full-stack web applications, databases, and system administration.
+- ⚡ Fun fact: I love adventure riding and exploring technologies.
+
+---
+
+## 🛠️ Tech Stack & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,php,java,html,css,git,linux,flask,mysql,sqlite,bootstrap" />
+</a>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_MU&theme=tokyonight&hide_border=true" width="100%" />
+</p>
