@@ -5,7 +5,7 @@
 # Hi there, I'm Ibrahim 👋
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=600&auto=format&fit=crop" width="350px" alt="AI Robot" />
+  <img src="https://raw.githubusercontent.com/betawidesign007/betawidesign007/main/robot-ai.png" width="350px" alt="AI Robot" />
 </p>
 
 - 🔭 Saat ini sedang fokus mengembangkan aplikasi web full-stack, basis data, dan administrasi sistem.
