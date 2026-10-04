@@ -5,7 +5,7 @@
 # Hi there, I'm Ibrahim 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200px" />
+  <img src="https://github.com/betawidesign007/betawidesign007/raw/main/adventure-motorcycle.png" alt="Adventure Motorcycle" width="250px" />
 </p>
 
 - 🔭 Saat ini sedang fokus mengembangkan aplikasi web full-stack, basis data, dan administrasi sistem.
