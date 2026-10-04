@@ -8,8 +8,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR41mzK/giphy.gif" width="300px" />
 </p>
 
-- 🔭 I’m currently working on full-stack web applications, databases, and system administration.
-- ⚡ Fun fact: I love adventure riding and exploring technologies.
+- 🔭 Saat ini sedang fokus mengembangkan aplikasi web full-stack, basis data, dan administrasi sistem.
+- ⚡ Fakta unik: Saya sangat menyukai petualangan berkendara, dan mengeksplorasi teknologi baru.
 
 ---
 
