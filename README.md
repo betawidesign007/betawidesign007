@@ -89,8 +89,9 @@
 > *"Konsistensi adalah apa yang mengubah hal biasa menjadi luar biasa."*
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=id" alt="Statistik GitHub Ibrahim" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true&locale=id" alt="Bahasa yang Sering Pengguna Pakai" />
+  <!-- Server Alternatif github-readme-stats -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistik GitHub Ibrahim" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa yang Sering Pengguna Pakai" />
 </div>
 
 <div align="center">
