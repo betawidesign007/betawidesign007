@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Ibrahim
+# 👋 Hallo Saya Ibrahim
 
-### 💻 IT Enthusiast | Web Developer | Programmer
+## 💻 IT Enthusiast | Web Developer | Programmer
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=betawidesign007&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile views" />
