@@ -85,7 +85,7 @@
   <img width="90%" src="https://github-profile-trophy.vercel.app/?username=betawidesign007&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
-## 💡 Dev Quote
+## 💡Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
