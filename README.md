@@ -33,14 +33,14 @@
   </a>
 </p>
 
-<!-- Tambahkan media sosial Anda jika sudah siap:
 <a href="https://www.instagram.com/USERNAME_INSTAGRAM_ANDA">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+
 <a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
--->
+
 
 ---
 
@@ -79,7 +79,7 @@
 
 <!-- Gambar Ilustrasi Tech Stack Lokal -->
 <p align="center">
-  <img src="./assets/tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
+  <img src="./tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
 </p>
 
 ---
