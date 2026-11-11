@@ -21,11 +21,6 @@
 - 🎯 Berfokus pada pembuatan aplikasi yang bermanfaat, responsif, dan ramah pengguna (*user-friendly*).
 - 📍 Indonesia
 
-<!-- Gambar Banner Lokal untuk Bagian Tentang Saya -->
-<p align="center">
-  <img src="" alt="Banner Tentang Saya" width="100%" />
-</p>
-
 ---
 
 ## 🌐 Hubungi Saya
