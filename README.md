@@ -3,8 +3,6 @@
   <img src="./about-me-banner.png" alt="Banner Tentang Saya" width="100%" />
 </p>
 
-### 💻 Pengembang Web & Aplikasi | Mahasiswa Teknik Informatika
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=betawidesign007&label=Total%20Pengunjung&color=6c63ff&style=flat" alt="Jumlah Pengunjung Profil" />
 </p>
