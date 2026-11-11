@@ -14,10 +14,10 @@
 
 ## 🌟 About Me
 
-- 👋 Hello! I'm **Ibrahim**.
-- 💻 I'm interested in technology, programming, and application development.
-- 🌱 Currently learning and building projects in **Web Development**.
-- 🎯 I enjoy creating useful, responsive, and user-friendly applications.
+- 👋 Hello! Saya **Ibrahim**.
+- 💻 I am a developer of technology, programming, and applications.
+- 🌱 Currently building a project in the field of **Web Development**.
+- 🎯 My hobbies include traveling, building web applications, and keeping up with developments in technology.
 - 📍 Indonesia
 
 ## 🌐 Connect With Me
