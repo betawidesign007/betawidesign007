@@ -1,37 +1,37 @@
 <div align="center">
 
-# 👋 Hi, I'm Ibrahim
+# 👋 Halo, Saya Ibrahim
 
-### 💻 IT Enthusiast | Web Developer | Programmer
+### 💻 Pengembang Web & Aplikasi | Mahasiswa Teknik Informatika
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=betawidesign007&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=betawidesign007&label=Total%20Pengunjung&color=6c63ff&style=flat" alt="Jumlah Pengunjung Profil" />
 </p>
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🌟 Tentang Saya
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Selesaikan dulu masalahnya. Baru kemudian tulis kodenya."* — John Johnson
 
-- 👋 Hello! I'm **Ibrahim**.
-- 💻 I'm interested in technology, programming, and application development.
-- 🌱 Currently learning and building projects in **Web Development**.
-- 🎯 I enjoy creating useful, responsive, and user-friendly applications.
+- 👋 Salam kenal! Saya **Ibrahim**.
+- 💻 Saya memiliki ketertarikan tinggi pada dunia teknologi, pemograman, dan pengembangan aplikasi.
+- 🌱 Saat ini sedang aktif belajar dan membangun berbagai proyek **Pengembangan Web & Aplikasi**.
+- 🎯 Berfokus pada pembuatan aplikasi yang bermanfaat, responsif, dan ramah pengguna (*user-friendly*).
 - 📍 Indonesia
 
-<!-- Gambar Sampul Lokal untuk Section About Me -->
+<!-- Gambar Banner Lokal untuk Bagian Tentang Saya -->
 <p align="center">
-  <img src="./assets/about-me-banner.png" alt="About Me Banner" width="100%" />
+  <img src="./assets/about-me-banner.png" alt="Banner Tentang Saya" width="100%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Hubungi Saya
 
-> *"Great things in business are never done by one person. They're done by a team of people."* — Steve Jobs
+> *"Hal-hal besar dalam bisnis tidak pernah dilakukan oleh satu orang saja, melainkan oleh tim."* — Steve Jobs
 
 <p align="left">
   <a href="https://github.com/betawidesign007">
@@ -39,22 +39,22 @@
   </a>
 </p>
 
-<!-- Add your social media links when ready:
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+<!-- Tambahkan media sosial Anda jika sudah siap:
+<a href="https://www.instagram.com/USERNAME_INSTAGRAM_ANDA">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/USERNAME_LINKEDIN_ANDA">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 -->
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Penguasaan Teknologi (*Tech Stack*)
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+> *"Siapa pun bisa menulis kode yang dimengerti komputer. Programmer yang baik menulis kode yang dimengerti manusia."* — Martin Fowler
 
-### Languages
+### Bahasa Pemrograman
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### Frameworks & Tools
+### Framework & Tools
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-### Database
+### Basis Data (*Database*)
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -85,44 +85,44 @@
 
 <!-- Gambar Ilustrasi Tech Stack Lokal -->
 <p align="center">
-  <img src="./assets/tech-stack-banner.png" alt="Tech Stack Banner" width="100%" />
+  <img src="./assets/tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistik GitHub
 
-> *"Consistency is what transforms average into excellence."*
+> *"Konsistensi adalah apa yang mengubah hal biasa menjadi luar biasa."*
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ibrahim's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=id" alt="Statistik GitHub Ibrahim" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true&locale=id" alt="Bahasa yang Sering Pengguna Pakai" />
 </div>
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=betawidesign007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=betawidesign007&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=betawidesign007&theme=tokyonight&hide_border=true" alt="Grafik Aktivitas GitHub" />
 </div>
 
 ---
 
-## 💡 Custom Dev Quote
+## 🏆 Penghargaan & Trofi GitHub
 
-<!-- Kutipan Teks Sendiri Menggunakan HTML Blockquote & Gambar Banner Quote Lokal -->
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=betawidesign007&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofi GitHub" />
+</div>
+
+---
+
+## 💡 Kutipan Pilihan Pengembang
+
 <div align="center">
 
-> ### 💬 *"Simplicity is the soul of efficiency."* — Austin Freeman
+> ### 💬 *"Kesederhanaan adalah inti dari efisiensi."* — Austin Freeman
 
 <br/>
 
-<img src="./assets/quote-banner.png" alt="Custom Quote Banner" width="80%" />
+<!-- Gambar Banner Kutipan Lokal -->
+<img src="./assets/quote-banner.png" alt="Banner Kutipan Pilihan" width="80%" />
 
 </div>
 
@@ -130,8 +130,8 @@
 
 <div align="center">
 
-### ✨ "Keep learning, keep building, and keep growing."
+### ✨ "Terus belajar, terus berkarya, dan terus berkembang."
 
-Thanks for visiting my GitHub profile! 🙌
+Terima kasih telah mengunjungi profil GitHub saya! 🙌
 
 </div>
