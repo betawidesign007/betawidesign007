@@ -48,6 +48,11 @@
 
 > *"Siapa pun bisa menulis kode yang dimengerti komputer. Programmer yang baik menulis kode yang dimengerti manusia."* — Martin Fowler
 
+<!-- Gambar Ilustrasi Tech Stack Lokal -->
+<p align="center">
+  <img src="./tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
+</p>
+
 ### Bahasa Pemrograman
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -75,11 +80,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-</p>
-
-<!-- Gambar Ilustrasi Tech Stack Lokal -->
-<p align="center">
-  <img src="./tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
 </p>
 
 ---
