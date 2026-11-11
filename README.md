@@ -90,8 +90,8 @@
 
 <div align="center">
   <!-- Server Alternatif github-readme-stats -->
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistik GitHub Ibrahim" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa yang Sering Pengguna Pakai" />
+  <img height="165" src="" alt="Statistik GitHub Ibrahim" />
+  <img height="165" src="" alt="Bahasa yang Sering Pengguna Pakai" />
 </div>
 
 <div align="center">
