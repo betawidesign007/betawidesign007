@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="./about-me-banner.png" alt="Banner Tentang Saya" width="100%" />
+</p>
 # 👋 Halo, Saya Ibrahim
 
 ### 💻 Pengembang Web & Aplikasi | Mahasiswa Teknik Informatika
