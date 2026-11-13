@@ -100,14 +100,13 @@
 ---
 
 ## 💡 Kutipan Pilihan Pengembang
+> *"Kualitas hidup kita sangat dipengaruhi oleh pola pikir kita sendiri.."*
+>
+> **— Ibrahim**
 
 <div align="center">
 
 <img src="./assets/quote_banner.png" width="100%" alt="Quote Banner">
-
-> *"Kesederhanaan adalah inti dari efisiensi."*
->
-> **— Austin Freeman**
 
 </div>
 
