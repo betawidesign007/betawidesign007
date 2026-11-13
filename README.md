@@ -29,8 +29,6 @@
 
 ### 🌐 Hubungi Saya
 
-### 🌐 Hubungi Saya
-
 <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/betawidesign007" target="_blank">
@@ -103,6 +101,8 @@
 ---
 
 ### 🏆 GitHub Trophies
+> *"Pencapaian besar tidak lahir dalam semalam, melainkan dari konsistensi setiap hari."*
+> **~Ibrahim**
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
