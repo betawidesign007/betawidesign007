@@ -103,7 +103,11 @@
 ## 🏆 Penghargaan & Trofi GitHub
 
 <div align="center">
-  <img src="./assets/github-trophies.png" alt="GitHub Trophies Ibrahim" width="100%" />
+  <img
+    src="./assets/github-trophies.png"
+    alt="GitHub Trophies Ibrahim"
+    width="95%"
+  />
 </div>
 
 ---
