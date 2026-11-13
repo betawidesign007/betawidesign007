@@ -2,13 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
-    # Dijalankan setiap 12 jam sekali
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
       - master
+
+# Deklarasi izin tulis secara eksplisit di level job/workflow
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -19,7 +22,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # 1. Menghasilkan file SVG animasi ular dari kontribusi GitHub
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         id: snake-gif
@@ -29,7 +31,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 2. Push file SVG hasil generate ke branch bernama 'output'
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
