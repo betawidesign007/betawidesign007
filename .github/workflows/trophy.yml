@@ -17,11 +17,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Create Assets Folder
+        run: mkdir -p assets
+
       - name: Generate Trophy SVG
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: betawidesign007
-          output_path: trophy.svg
+          output_path: assets/github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: onedark
 
@@ -30,11 +33,12 @@ jobs:
         with:
           node-version: 22
 
+      - name: Install Sharp
+        run: npm install --no-save --no-package-lock sharp
+
       - name: Convert SVG to PNG
         run: |
-          npm install --no-save --no-package-lock sharp
-          mkdir -p assets
-          node -e "require('sharp')('trophy.svg').png().toFile('assets/github-trophies.png').then(() => console.log('PNG berhasil dibuat')).catch(err => { console.error(err); process.exit(1); })"
+          node -e "require('sharp')('assets/github-trophies.svg').png().toFile('assets/github-trophies.png').then(() => console.log('PNG berhasil dibuat')).catch(err => { console.error(err); process.exit(1); })"
 
       - name: Commit Trophy PNG
         uses: stefanzweifel/git-auto-commit-action@v5
