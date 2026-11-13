@@ -13,42 +13,35 @@
 <tr>
 <td width="35%" valign="top">
 
-## 🌟 Tentang Saya
+### 🌟 Tentang Saya
 
 > *"Selesaikan dulu masalahnya. Baru kemudian tulis kodenya."*
 
-👋 Halo, saya **Ibrahim**.
+<br>
 
-💻 Tertarik pada teknologi, pemrograman, dan pengembangan aplikasi.
-
-🌱 Aktif belajar Web Development dan Mobile Development.
-
-🎯 Membuat aplikasi yang bermanfaat, responsif, dan user-friendly.
-
-📍 Indonesia
+*  👋 **Halo, saya Ibrahim.**
+* 💻 **Tertarik pada teknologi, pemrograman, dan pengembangan aplikasi.**
+* 🌱 **Aktif belajar Web Development dan Mobile Development.**
+* 🎯 **Membuat aplikasi yang bermanfaat, responsif, dan user-friendly.**
+* 📍 **Indonesia**
 
 ### 🌐 Hubungi Saya
 
 <p align="left">
-  <!-- GitHub -->
   <a href="https://github.com/betawidesign007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&borderRadius=20" alt="GitHub" />
   </a>
-  <!-- Instagram -->
   <a href="https://www.instagram.com/belalang_aspal" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&borderRadius=20" alt="Instagram" />
   </a>
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ibrahim-ibnu-machfudz-4225a4410/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20" alt="LinkedIn" />
   </a>
-  <!-- Email (Opsional - Silakan ganti email Anda) -->
   <a href="mailto:betawidesign007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=20" alt="Email" />
   </a>
-  <!-- WhatsApp / Telegram (Opsional) -->
   <a href="https://wa.me/6287799107735" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&borderRadius=20" alt="WhatsApp" />
   </a>
 </p>
 
