@@ -91,11 +91,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=betawidesign007&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=8" alt="" />
-  </a>
-</p>
+![GitHub Trophies](./trophy.svg)
 ---
 
 ## 💡 Kutipan Pilihan Pengembang
