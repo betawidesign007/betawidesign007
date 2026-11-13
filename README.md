@@ -45,16 +45,10 @@
 
 <td width="65%" valign="top">
 
-### 📊 Statistik GitHub
+### 📈 Aktivitas Koding
 
 <p align="left">
-  <img src="https://rahuldkjain.github.io/gh-profile-readme-generator/src/images/icons/Social/github.svg" width="0" />
-  <a href="https://github.com/betawidesign007">
-    <img src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/betawidesign007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-  </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=betawidesign007&theme=tokyo-night&hide_border=true&area=true&custom_title=Aktivitas%20Commit%20Harian" alt="Activity Graph" width="100%" />
 </p>
 
 </td>
