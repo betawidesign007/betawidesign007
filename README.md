@@ -48,9 +48,13 @@
 ### 📊 Statistik GitHub
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Total_Commits-50%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Repositories-10%2B-success?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Main_Language-PHP_%7C_Python-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Languages" />
+  <img src="https://rahuldkjain.github.io/gh-profile-readme-generator/src/images/icons/Social/github.svg" width="0" />
+  <a href="https://github.com/betawidesign007">
+    <img src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/betawidesign007">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  </a>
 </p>
 
 </td>
