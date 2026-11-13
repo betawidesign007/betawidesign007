@@ -102,9 +102,6 @@
 
 ## 🏆 Penghargaan & Trofi GitHub
 
-
-## 🏆 GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=betawidesign007&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
