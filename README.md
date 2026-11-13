@@ -102,6 +102,7 @@
 
 ### 🏆 GitHub Trophies
 > *"Pencapaian besar tidak lahir dalam semalam, melainkan dari konsistensi setiap hari."*
+> 
 > **~Ibrahim**
 
 <p align="left">
