@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="./assets/quote_banner.png" width="100%" alt="Quote Banner">
+<img src="./assets/quote-banner.png" width="100%" alt="Quote Banner">
 
 </div>
 
