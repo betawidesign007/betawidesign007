@@ -26,7 +26,7 @@ jobs:
           username: betawidesign007
           output_path: assets/github-trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: onedark
+          theme: aura
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
