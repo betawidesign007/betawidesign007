@@ -91,8 +91,11 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](./trophy.svg)
----
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=betawidesign007&theme=onedark&no-frame=false&no-bg=false&margin-w=4&column=8" alt="" />
+  </a>
+</p>
 
 ## 💡 Kutipan Pilihan Pengembang
 > *"Kualitas hidup kita sangat dipengaruhi oleh pola pikir kita sendiri.."*
