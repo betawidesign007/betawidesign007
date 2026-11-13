@@ -1,0 +1,43 @@
+
+name: Generate GitHub Trophy PNG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Trophy SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: betawidesign007
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: onedark
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Convert SVG to PNG
+        run: |
+          npm install --no-save --no-package-lock sharp
+          mkdir -p assets
+          node -e "require('sharp')('trophy.svg').png().toFile('assets/github-trophies.png').then(() => console.log('PNG berhasil dibuat')).catch(err => { console.error(err); process.exit(1); })"
+
+      - name: Commit Trophy PNG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Trophy PNG"
+          file_pattern: "assets/github-trophies.png"
