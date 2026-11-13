@@ -47,8 +47,6 @@
 
 ## 📊 Statistik GitHub
 
-### 📊 Statistik GitHub
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="48%" />
