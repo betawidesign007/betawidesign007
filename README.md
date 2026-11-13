@@ -1,3 +1,4 @@
+
 <div align="center">
 <p align="center">
   <img src="./about-me-banner.png" alt="Banner Tentang Saya" width="100%" />
@@ -6,7 +7,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=betawidesign007&label=Total%20Pengunjung&color=6c63ff&style=flat" alt="Jumlah Pengunjung Profil" />
 </p>
-
 </div>
 
 ---
@@ -16,7 +16,7 @@
 > *"Selesaikan dulu masalahnya. Baru kemudian tulis kodenya."* — John Johnson
 
 - 👋 Salam kenal! Saya **Ibrahim**.
-- 💻 Saya memiliki ketertarikan tinggi pada dunia teknologi, pemograman, dan pengembangan aplikasi.
+- 💻 Saya memiliki ketertarikan tinggi pada dunia teknologi, pemrograman, dan pengembangan aplikasi.
 - 🌱 Saat ini sedang aktif belajar dan membangun berbagai proyek **Pengembangan Web & Aplikasi**.
 - 🎯 Berfokus pada pembuatan aplikasi yang bermanfaat, responsif, dan ramah pengguna (*user-friendly*).
 - 📍 Indonesia
@@ -41,19 +41,18 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-
 ---
 
 ## 🛠️ Penguasaan Teknologi (*Tech Stack*)
 
 > *"Siapa pun bisa menulis kode yang dimengerti komputer. Programmer yang baik menulis kode yang dimengerti manusia."* — Martin Fowler
 
-<!-- Gambar Ilustrasi Tech Stack Lokal -->
 <p align="center">
   <img src="./tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
 </p>
 
 ### Bahasa Pemrograman
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -65,6 +64,7 @@
 </p>
 
 ### Framework & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -76,6 +76,7 @@
 </p>
 
 ### Basis Data (*Database*)
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -89,9 +90,8 @@
 > *"Konsistensi adalah apa yang mengubah hal biasa menjadi luar biasa."*
 
 <div align="center">
-  <!-- Server Alternatif github-readme-stats -->
-  <img height="165" src="" alt="Statistik GitHub Ibrahim" />
-  <img height="165" src="" alt="Bahasa yang Sering Pengguna Pakai" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Ibrahim" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman" />
 </div>
 
 <div align="center">
@@ -102,8 +102,9 @@
 
 ## 🏆 Penghargaan & Trofi GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=betawidesign007&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  <img src="./assets/github-trophies.png" alt="GitHub Trophies Ibrahim" width="100%" />
+</div>
 
 ---
 
@@ -115,7 +116,6 @@
 
 <br/>
 
-<!-- Gambar Banner Kutipan Lokal -->
 <img src="./assets/quote-banner.png" alt="Banner Kutipan Pilihan" width="80%" />
 
 </div>
