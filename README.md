@@ -45,11 +45,12 @@
 
 <td width="65%" valign="top">
 
-## 📊 Statistik GitHub
+### 📊 Statistik GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=betawidesign007&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betawidesign007&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Total_Commits-50%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositories-10%2B-success?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Main_Language-PHP_%7C_Python-orange?style=for-the-badge&logo=codeforces&logoColor=white" alt="Languages" />
 </p>
 
 </td>
