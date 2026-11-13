@@ -45,10 +45,10 @@
 
 <td width="65%" valign="top">
 
-### 📈 Aktivitas Koding
+### ⚡ Aktivitas Kontribusi
 
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=betawidesign007&theme=tokyo-night&hide_border=true&area=true&custom_title=Aktivitas%20Commit%20Harian" alt="Activity Graph" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/betawidesign007/betawidesign007/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 </td>
